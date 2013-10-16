@@ -23,7 +23,7 @@
 @implementation Test
 + (const char *) classStringValue;
 {
-  return "This is the string value of the Test class";
+  return "This is the string value of the Test class. If you see this then the test passes.";
 }
 @end
 
